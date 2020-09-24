@@ -10,3 +10,4 @@ CVE-2018-4124|https://blog.zecops.com/vulnerabilities/analyzing-the-ios-telugu-c
 CVE-2020-????|https://blog.pangu.io/?p=195|
 CVE-2020-????|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
 CVE-2020-9964|https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html|
+CVE-2020-9979|https://blog.chichou.me/2020/08/06/x-site-escape-part-ii-look-up-a-shell-in-the-dictionary/|
