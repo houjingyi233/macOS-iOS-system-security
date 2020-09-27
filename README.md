@@ -12,3 +12,4 @@ CVE-2020-????|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-co
 CVE-2020-9964|https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html|
 CVE-2020-9979|https://blog.chichou.me/2020/08/06/x-site-escape-part-ii-look-up-a-shell-in-the-dictionary/|
 CVE-2020-9992|https://blog.zimperium.com/c0ntextomy-lets-debug-together-cve-2020-9992/|
+-|https://siguza.github.io/psychicpaper/|
