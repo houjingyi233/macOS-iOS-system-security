@@ -8,9 +8,11 @@ CVE-2016-1757|Kernel|https://googleprojectzero.blogspot.com/2016/03/race-you-to-
 CVE-2016-7595|CoreText|https://security.tencent.com/index.php/blog/msg/111|
 CVE-2018-4124|CoreText|https://blog.zecops.com/vulnerabilities/analyzing-the-ios-telugu-crash-part-i/|
 CVE-2018-4184|sandbox|https://ubrigens.com/posts/linking_a_microphone.html|
+CVE-2018-4229&CVE-2020-3854|sandbox|https://ubrigens.com/posts/linking_a_microphone.html|
 CVE-2020-????|Kernel|https://blog.pangu.io/?p=195|
 CVE-2020-????|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
 CVE-2020-9964|IOSurfaceAccelerator|https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html|
 CVE-2020-9979|Assets|https://blog.chichou.me/2020/08/06/x-site-escape-part-ii-look-up-a-shell-in-the-dictionary/|
 CVE-2020-9992|IDE Device Support|https://blog.zimperium.com/c0ntextomy-lets-debug-together-cve-2020-9992/|
 -|sandbox|https://siguza.github.io/psychicpaper/|
+
