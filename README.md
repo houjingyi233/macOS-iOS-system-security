@@ -12,13 +12,16 @@ CVE-2016-1757|Kernel|https://googleprojectzero.blogspot.com/2016/03/race-you-to-
 CVE-2016-4633|Intel Graphics Driver|https://marcograss.github.io/security/apple/cve/2016/07/21/cve-2016-4633-apple-graphics-another-osx-bug.html
 CVE-2016-4673|CoreGraphics|https://marcograss.github.io/security/apple/cve/macos/ios/2016/11/21/cve-2016-4673-apple-coregraphics.html|
 CVE-2016-7595|CoreText|https://security.tencent.com/index.php/blog/msg/111|
+CVE-2017-13861|IOSurface|https://siguza.github.io/v0rtex/<br>https://paper.seebug.org/472/|
 CVE-2018-4124|CoreText|https://blog.zecops.com/vulnerabilities/analyzing-the-ios-telugu-crash-part-i/|
 CVE-2018-4184|sandbox|https://ubrigens.com/posts/linking_a_microphone.html|
 CVE-2018-4229&CVE-2020-3854|sandbox|https://ubrigens.com/posts/sandbox_initialisation_bypasses.html|
 CVE-2018-4407|kernel|https://securitylab.github.com/research/apple-xnu-icmp-error-CVE-2018-4407|
+CVE-2019-6225|Kernel|https://blogs.360.cn/post/IPC%20Voucher%20UaF%20Remote%20Jailbreak%20Stage%202.html<br>https://googleprojectzero.blogspot.com/2019/08/in-wild-ios-exploit-chain-5.html|
 CVE-2019-6231|CoreAnimation|https://www.fortinet.com/blog/threat-research/detailed-analysis-of-macos-ios-vulnerability-cve-2019-6231|
 CVE-2019-8507|CoreAnimation|https://www.fortinet.com/blog/threat-research/detailed-analysis-mac-os-vulnerability-cve-2019-8507|
 CVE-2019-8635|AMD|https://www.trendmicro.com/en_us/research/19/f/cve-2019-8635-double-free-vulnerability-in-apple-macos-lets-attackers-escalate-system-privileges-and-execute-arbitrary-code.html|
+CVE-2020-3847&CVE-2020-3848|CoreBluetooth|https://blogs.360.cn/post/macOS_Bluetoothd_0-click.html
 CVE-2020-????|Kernel|https://blog.pangu.io/?p=195|
 CVE-2020-????|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
 CVE-2020-9964|IOSurfaceAccelerator|https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html|
