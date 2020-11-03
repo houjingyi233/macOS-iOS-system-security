@@ -2,6 +2,7 @@
 macos/ios exploit writeup
 
 exploit from Google Project Zero:search apple in https://bugs.chromium.org/p/project-zero/issues/list
+
 exploit from Cisco Talos:search apple in https://talosintelligence.com/vulnerability_reports#disclosed
 
 CVE               |modules|POC/writeup link|
