@@ -1,9 +1,11 @@
 # macos-ios-exploit-writeup
 macos/ios exploit writeup
 
-exploit from Google Project Zero:search apple in https://bugs.chromium.org/p/project-zero/issues/list
+https://blog.pangu.io/
 
-exploit from Cisco Talos:search apple in https://talosintelligence.com/vulnerability_reports#disclosed
+https://bugs.chromium.org/p/project-zero/issues/list
+
+https://talosintelligence.com/vulnerability_reports#disclosed
 
 CVE               |modules|POC/writeup link|
 ------------------|----------------|----------------|
@@ -30,12 +32,12 @@ CVE-2019-8549|Power Management|https://ssd-disclosure.com/ssd-advisory-ios-power
 CVE-2019-8605|Kernel|https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html|
 CVE-2019-8635|AMD|https://www.trendmicro.com/en_us/research/19/f/cve-2019-8635-double-free-vulnerability-in-apple-macos-lets-attackers-escalate-system-privileges-and-execute-arbitrary-code.html|
 CVE-2019-8794&CVE-2019-8795&CVE-2019-8797|Kernel&AVEVideoEncoder&Audio|https://ssd-disclosure.com/ssd-advisory-via-ios-jailbreak-sandbox-escape-and-kernel-r-w-leading-to-rce/
-CVE-2020-3847&CVE-2020-3848|CoreBluetooth|https://blogs.360.cn/post/macOS_Bluetoothd_0-click.html
-CVE-2020-????|Kernel|https://blog.pangu.io/?p=195|
-CVE-2020-????|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
-CVE-2020-????|sandbox|https://siguza.github.io/psychicpaper/|
+CVE-2020-3847&CVE-2020-3848|CoreBluetooth|https://blogs.360.cn/post/macOS_Bluetoothd_0-click.html|
+CVE-2020-9771|sandbox|https://theevilbit.github.io/posts/cve_2020_9771<br>https://theevilbit.github.io/posts/reversing_cve_2020_9771/
 CVE-2020-9964|IOSurfaceAccelerator|https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html|
 CVE-2020-9968|sandbox|https://blog.xpnsec.com/we-need-to-talk-about-macl/|
 CVE-2020-9979|Assets|https://blog.chichou.me/2020/08/06/x-site-escape-part-ii-look-up-a-shell-in-the-dictionary/|
 CVE-2020-9992|IDE Device Support|https://blog.zimperium.com/c0ntextomy-lets-debug-together-cve-2020-9992/|
 CVE-2020-27950|Kernel|https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html|
+CVE-2020-????|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
+CVE-2020-????|sandbox|https://siguza.github.io/psychicpaper/|
