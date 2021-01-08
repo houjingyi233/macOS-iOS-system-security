@@ -7,7 +7,7 @@ https://bugs.chromium.org/p/project-zero/issues/list
 
 https://talosintelligence.com/vulnerability_reports#disclosed
 
-CVE               |modules|POC/writeup link|
+CVE|modules|POC/writeup link|
 ------------------|----------------|----------------|
 CVE-2015-????|Kernel|https://github.com/kpwn/tpwn<br>http://nirvan.360.cn/blog/?p=469<br>https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf|
 CVE-2016-????|XPC|https://marcograss.github.io/security/apple/xpc/2016/06/17/containermanagerd-xpc-array-oob.html|
@@ -53,3 +53,19 @@ CVE-2020-27935|XNU|https://github.com/LIJI32/SnatchBox|
 CVE-2020-27949|Kernel|https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949|
 CVE-2020-27950|Kernel|https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html|
 CVE-2020-????|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
+
+bug hunting techniques:
+
+[Biting the Apple that feeds you](https://labs.f-secure.com/assets/BlogFiles/mwri-44con-biting-the-apple-that-feeds-you-2017-09-25.pdf)
+
+[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)
+
+[Debug for Bug: Crack and Hack Apple Core by Itself](https://documents.trendmicro.com/assets/pdf/Technical_Brief-Debug_for_Bug_Crack_and_Hack_Apple_Core_by_Itself.pdf)
+
+[https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
+
+[Improving Mac OS X Security Through Gray Box Fuzzing Technique](https://www.researchgate.net/profile/Aristide_Fattori/publication/266657005_Improving_Mac_OS_X_security_through_gray_box_fuzzing_technique/links/57b1aba008ae95f9d8f4abe7/Improving-Mac-OS-X-security-through-gray-box-fuzzing-technique.pdf)
+
+[Play fuzzing machine – hunting iOS/macOS kernel vulnerabilities automatically and smartly](https://www.virusbulletin.com/virusbulletin/2020/03/vb2019-paper-play-fuzzing-machine-hunting-iosmacos-kernel-vulnerabilities-automatically-and-smartly/)
+
+[Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit](https://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Juwei_Lin-Drill-The-Apple-Core.pdf)
