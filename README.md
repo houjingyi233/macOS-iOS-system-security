@@ -1,5 +1,6 @@
-# macos-ios-exploit-writeup
-macos/ios exploit writeup
+Here is some resources about macOS/iOS system security. 
+
+<h3 id="p">exploit writeup</h3>
 
 https://blog.pangu.io/
 
@@ -55,18 +56,40 @@ CVE-2020-27949|Kernel|https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27
 CVE-2020-27950|Kernel|https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html|
 CVE-2020-????|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
 
-bug hunting techniques:
+<h3 id="p">opensource tools</h3>
 
-[Biting the Apple that feeds you](https://labs.f-secure.com/assets/BlogFiles/mwri-44con-biting-the-apple-that-feeds-you-2017-09-25.pdf)
+iOS/MacOS Kernelcache/Extensions analysis tool:
 
-[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)
+[https://github.com/lilang-wu/p-joker](https://github.com/lilang-wu/p-joker)
 
-[Debug for Bug: Crack and Hack Apple Core by Itself](https://documents.trendmicro.com/assets/pdf/Technical_Brief-Debug_for_Bug_Crack_and_Hack_Apple_Core_by_Itself.pdf)
+macOS 10.13 kernel fuzzer using multiple different methods:
+
+[https://github.com/FSecureLABS/OSXFuzz](https://github.com/FSecureLABS/OSXFuzz)
+
+static analysis tool for analyzing the security of Apple kernel drivers:
+
+[https://github.com/alibaba-edu/Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer)
+
+a framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode:
 
 [https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
 
+<h3 id="p">bug hunting techniques</h3>
+
+attack kernel graphics driver:
+
+[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)
+
+[Don't Trust Your Eye: Apple Graphics Is Compromised!](https://www.slideshare.net/CanSecWest/csw2016-chen-grassiheapplegraphicsiscompromised)
+
+LLDBFuzzer:
+
+[Debug for Bug: Crack and Hack Apple Core by Itself](https://documents.trendmicro.com/images/TEx/infographics/Technical%20Brief-Debug%20for%20Bug%20Crack%20and%20Hack%20Apple%20Core%20by%20Itself.pdf)
+
+LynxFuzzer:
+
 [Improving Mac OS X Security Through Gray Box Fuzzing Technique](https://www.researchgate.net/profile/Aristide_Fattori/publication/266657005_Improving_Mac_OS_X_security_through_gray_box_fuzzing_technique/links/57b1aba008ae95f9d8f4abe7/Improving-Mac-OS-X-security-through-gray-box-fuzzing-technique.pdf)
 
-[Play fuzzing machine – hunting iOS/macOS kernel vulnerabilities automatically and smartly](https://www.virusbulletin.com/virusbulletin/2020/03/vb2019-paper-play-fuzzing-machine-hunting-iosmacos-kernel-vulnerabilities-automatically-and-smartly/)
+Port	Syzkaller to	Support	macOS XNU	Fuzzing:
 
 [Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit](https://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Juwei_Lin-Drill-The-Apple-Core.pdf)
