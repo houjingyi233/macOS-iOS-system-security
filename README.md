@@ -55,6 +55,7 @@ CVE-2020-27935|XNU|https://github.com/LIJI32/SnatchBox|
 CVE-2020-27949|Kernel|https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949|
 CVE-2020-27950|Kernel|https://www.synacktiv.com/publications/ios-1-day-hunting-uncovering-and-exploiting-cve-2020-27950-kernel-memory-leak.html|
 CVE-2020-9905|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
+CVE-2021-1747|CoreAudio|https://mp.weixin.qq.com/s/9dmQH4qIw95Gsx92wLSr6w|
 CVE-2021-1758|FontParser|https://starlabs.sg/advisories/21-1758/|
 CVE-2021-1782|Kernel|https://github.com/ModernPwner/cicuta_virosa<br>https://www.synacktiv.com/publications/analysis-and-exploitation-of-the-ios-kernel-vulnerability-cve-2021-1782|
 CVE-2021-1790|FontParser|https://starlabs.sg/advisories/21-1790/|
