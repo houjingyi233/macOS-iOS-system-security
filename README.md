@@ -77,9 +77,17 @@ static analysis tool for analyzing the security of Apple kernel drivers:
 
 [https://github.com/alibaba-edu/Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer)
 
+webkit.patch is a patch file that makes it easier to build WebKitGTK+ with ASan and fuzz it:
+
+[https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz](https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz)
+
 a framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode:
 
 [https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
+
+This repository contains SockFuzzer, a fork of XNU that contains support for fuzzing the network stack in userland on macOS and Linux-based hosts:
+
+[https://github.com/googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer)
 
 <h3 id="p">bug hunting techniques</h3>
 
