@@ -81,6 +81,10 @@ webkit.patch is a patch file that makes it easier to build WebKitGTK+ with ASan 
 
 [https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz](https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz)
 
+Hacky support for (basic-block) coverage guided fuzzing of closed source libraries for honggfuzz:
+
+[https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz](https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz)
+
 a framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode:
 
 [https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
