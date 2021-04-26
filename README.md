@@ -85,6 +85,10 @@ Hacky support for (basic-block) coverage guided fuzzing of closed source librari
 
 [https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz](https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz)
 
+Coralsun is a small utility cython library used to provide python support for low level kernel features:
+
+[https://github.com/FSecureLABS/coralsun](https://github.com/FSecureLABS/coralsun)
+
 a framework is for fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode:
 
 [https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
