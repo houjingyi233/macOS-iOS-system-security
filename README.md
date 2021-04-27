@@ -66,6 +66,10 @@ CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
 
 <h3 id="p">opensource tools</h3>
 
+Just some little dev tools to probe IOKit:
+
+[https://github.com/Siguza/iokit-utils](https://github.com/Siguza/iokit-utils)
+
 iOS/MacOS Kernelcache/Extensions analysis tool:
 
 [https://github.com/lilang-wu/p-joker](https://github.com/lilang-wu/p-joker)
