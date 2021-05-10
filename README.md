@@ -107,6 +107,10 @@ This repository contains SockFuzzer, a fork of XNU that contains support for fuz
 
 <h3 id="p">bug hunting techniques</h3>
 
+[Racing the Dark: A New TOCTTOU Story from Apple's Core](https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Wang-Racing-The-Dark-A-New-Tocttou-Story-From-Apples-Core.pdf)
+
+[Apple Neural Engine Internal: From ML Algorithm to HW Registers](https://i.blackhat.com/asia-21/Friday-Handouts/as21-Wu-Apple-Neural_Engine.pdf)
+
 attack kernel graphics driver:
 
 [Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)
