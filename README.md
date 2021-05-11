@@ -65,6 +65,7 @@ CVE-2021-1758|FontParser|https://starlabs.sg/advisories/21-1758/|
 CVE-2021-1782|Kernel|https://github.com/ModernPwner/cicuta_virosa<br>https://www.synacktiv.com/publications/analysis-and-exploitation-of-the-ios-kernel-vulnerability-cve-2021-1782|
 CVE-2021-1790|FontParser|https://starlabs.sg/advisories/21-1790/|
 CVE-2021-1815|Preferences|https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/|
+CVE-2021-30655|Wi-Fi|https://wojciechregula.blog/post/press-5-keys-and-become-root-aka-cve-2021-30655/|
 CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
 
 <h3 id="p">opensource tools</h3>
