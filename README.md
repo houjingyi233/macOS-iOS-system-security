@@ -69,6 +69,7 @@ CVE-2021-30655|Wi-Fi|https://wojciechregula.blog/post/press-5-keys-and-become-ro
 CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
 CVE-2021-30660|Kernel|https://alexplaskett.github.io/CVE-2021-30660/|
 CVE-2021-30713|TCC|https://www.jamf.com/blog/zero-day-tcc-bypass-discovered-in-xcsset-malware/|
+CVE-2021-30724|CVMS|https://gist.github.com/jhftss/1bdb0f8340bfd56f7f645c080e094a8b https://www.trendmicro.com/en_us/research/21/f/CVE-2021-30724_CVMServer_Vulnerability_in_macOS_and_iOS.html|
 /|Kernel|https://saaramar.github.io/iOS_memory_exhaustion_writeup/|
 
 <h3 id="p">opensource tools</h3>
