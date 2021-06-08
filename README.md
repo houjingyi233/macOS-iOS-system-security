@@ -46,6 +46,7 @@ CVE-2019-8852&CVE-2020-27904|Kernel|https://i.blackhat.com/asia-21/Friday-Handou
 CVE-2020-3847&CVE-2020-3848|CoreBluetooth|https://blogs.360.cn/post/macOS_Bluetoothd_0-click.html|
 CVE-2020-3919|IOHIDFamily|https://alexplaskett.github.io/CVE-2020-3919/|
 CVE-2020-9771|sandbox|https://theevilbit.github.io/posts/cve_2020_9771/<br>https://theevilbit.github.io/posts/reversing_cve_2020_9771/|
+CVE-2020-9854|Security|https://a2nkf.github.io/unauthd_Logic_bugs_FTW/|
 CVE-2020-9964|IOSurfaceAccelerator|https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html|
 CVE-2020-9967|Kernel|https://alexplaskett.github.io/CVE-2020-9967/|
 CVE-2020-9968|sandbox|https://blog.xpnsec.com/we-need-to-talk-about-macl/|
@@ -112,9 +113,11 @@ CVE-2021-30724|CVMS|https://gist.github.com/jhftss/1bdb0f8340bfd56f7f645c080e094
 
 attack kernel graphics driver:
 
-[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)
+defcon26 : [Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)
 
-[Don't Trust Your Eye: Apple Graphics Is Compromised!](https://www.slideshare.net/CanSecWest/csw2016-chen-grassiheapplegraphicsiscompromised)
+CanSecWest 2016 : [Don't Trust Your Eye: Apple Graphics Is Compromised!](https://www.slideshare.net/CanSecWest/csw2016-chen-grassiheapplegraphicsiscompromised)
+
+HITB AMS 2021 : [macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)
 
 LLDBFuzzer:
 
