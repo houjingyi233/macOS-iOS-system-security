@@ -62,6 +62,7 @@ CVE-2020-9900&CVE-2021-1786|Crash Reporter|https://theevilbit.github.io/posts/ma
 CVE-2020-9905|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
 CVE-2020–9922|Mail|https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c|
 CVE-2021-1747|CoreAudio|https://mp.weixin.qq.com/s/9dmQH4qIw95Gsx92wLSr6w|
+CVE-2021-1757|IOSkywalkFamily|https://github.com/b1n4r1b01/n-days/tree/main/CVE-2021-1757|
 CVE-2021-1758|FontParser|https://starlabs.sg/advisories/21-1758/|
 CVE-2021-1782|Kernel|https://github.com/ModernPwner/cicuta_virosa<br>https://www.synacktiv.com/publications/analysis-and-exploitation-of-the-ios-kernel-vulnerability-cve-2021-1782|
 CVE-2021-1790|FontParser|https://starlabs.sg/advisories/21-1790/|
