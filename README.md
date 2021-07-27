@@ -72,7 +72,8 @@ CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
 CVE-2021-30660|Kernel|https://alexplaskett.github.io/CVE-2021-30660/|
 CVE-2021-30713|TCC|https://www.jamf.com/blog/zero-day-tcc-bypass-discovered-in-xcsset-malware/|
 CVE-2021-30724|CVMS|https://gist.github.com/jhftss/1bdb0f8340bfd56f7f645c080e094a8b https://www.trendmicro.com/en_us/research/21/f/CVE-2021-30724_CVMServer_Vulnerability_in_macOS_and_iOS.html|
-/|Kernel|https://saaramar.github.io/iOS_memory_exhaustion_writeup/|
+CVE-2021-30798|TCC|https://jhftss.github.io/CVE-2021-30798-TCC-Bypass-Again-Inspired-By-XCSSET/|
+CVE-2021-30807|IOMobileFrameBuffer|https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/|
 
 <h3 id="p">opensource tools</h3>
 
@@ -96,15 +97,19 @@ CVE-2021-30724|CVMS|https://gist.github.com/jhftss/1bdb0f8340bfd56f7f645c080e094
 
 1.[https://github.com/FSecureLABS/OSXFuzz](https://github.com/FSecureLABS/OSXFuzz)
 
-2.[https://github.com/googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer)
+2.[https://github.com/ant4g0nist/ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer)
 
-3.[https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
+3.[https://github.com/googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)
 
-4.[https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz](https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz)
+4.[https://github.com/googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer)
 
-5.[https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac](https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac)
+5.[https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
 
-6.[https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz](https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz)
+6.[https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz](https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz)
+
+7.[https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac](https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac)
+
+8.[https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz](https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz)
 
 <h3 id="p">bug hunting techniques</h3>
 
