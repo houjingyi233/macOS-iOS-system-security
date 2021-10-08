@@ -128,7 +128,7 @@ conference|link|
 blackhat asia 2021|[Racing the Dark: A New TOCTTOU Story from Apple's Core](https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Wang-Racing-The-Dark-A-New-Tocttou-Story-From-Apples-Core.pdf)|
 blackhat asia 2021|[Apple Neural Engine Internal: From ML Algorithm to HW Registers](https://i.blackhat.com/asia-21/Friday-Handouts/as21-Wu-Apple-Neural_Engine.pdf)|
 blackhat asia 2021|[The Price of Compatibility: Defeating macOS Kernel Using Extended File Attributes](https://i.blackhat.com/asia-21/Friday-Handouts/as-21-Fan-The-Price-Of-Compatibility-Defeating-MacOS-Kernel-Using-Extended-File-Attributes.pdf)|
-blackhat europe 2015|[Attacking the XNU Kernel in El Capitan](https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf)
+blackhat europe 2015|[Attacking the XNU Kernel in El Capitan](https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf)|
 blackhat usa 2021|[20+ Ways to Bypass Your macOS Privacy Mechanisms](https://i.blackhat.com/USA21/Wednesday-Handouts/US-21-Regula-20-Plus-Ways-to-Bypass-Your-macOS-Privacy-Mechanisms.pdf)|
 blackhat usa 2021|[Everything has Changed in iOS 14,but Jailbreak is Eternal](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Everything-Has-Changed-In-IOS-14-But-Jailbreak-Is-Eternal.pdf)|
 blackhat usa 2021|[Reverse Engineering the M1](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf)|
@@ -137,4 +137,8 @@ blackhat usa 2021|[Wibbly Wobbly, Timey Wimey:What's Really Inside Apple's U1 Ch
 CanSecWest 2016|[Don't Trust Your Eye: Apple Graphics Is Compromised!](https://www.slideshare.net/CanSecWest/csw2016-chen-grassiheapplegraphicsiscompromised)|
 defcon26|[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)|
 HITB AMS 2021|[macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)|
-syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdf)
+Objective by the Sea 4.0|[Kernel Exploitation on Apple's M1 chip](https://github.com/ZecOps/public/blob/master/CVE-2021-30714/obts4_keynote.pdf)|
+Objective by the Sea 4.0|[Mount(ain) of Bugs](https://www.slideshare.net/CsabaFitzl/csaba-fitzl-mountain-of-bugs)|
+Objective by the Sea 4.0|[Becoming a Yogi on Mac ATT&CK with OceanLotus Postures](https://www.slideshare.net/AdamPennington4/becoming-a-yogi-on-mac-attckwith-oceanlotus-postures)|
+Objective by the Sea 4.0|[Environmental Disaster A LaunchServices Tale](https://github.com/ronwai/talks/blob/main/ObjectiveByTheSeaV4_EnvironmentalDisaster.pdf)|
+syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdf)|
