@@ -30,6 +30,7 @@ CVE-2018-4229&CVE-2020-3854|sandbox|https://ubrigens.com/posts/sandbox_initialis
 CVE-2018-4248|libxpc|https://bazad.github.io/2018/07/xpc-string-leak/|
 CVE-2018-4280|libxpc|https://github.com/bazad/blanket|
 CVE-2018-4331&CVE-2018-4332&CVE-2018-4343|Heimdal|https://bazad.github.io/2018/11/introduction-userspace-race-conditions-ios/
+CVE-2018-4346|Dictionary|https://www.securing.pl/en/secure-implementation-of-webview-in-ios-applications/|
 CVE-2018-4407|kernel|https://securitylab.github.com/research/apple-xnu-icmp-error-CVE-2018-4407|
 CVE-2018-4415|CoreAnimation|https://ssd-disclosure.com/ssd-advisory-ios-macos-safari-sandbox-escape-via-quartzcore-heap-overflow/
 CVE-2018-4431|Kernel|https://ssd-disclosure.com/ssd-advisory-ios-macos-kernel-task_inspect-information-leak/
