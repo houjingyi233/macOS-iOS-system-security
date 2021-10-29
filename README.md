@@ -76,6 +76,7 @@ CVE-2021-30724|CVMS|https://gist.github.com/jhftss/1bdb0f8340bfd56f7f645c080e094
 CVE-2021-30798|TCC|https://jhftss.github.io/CVE-2021-30798-TCC-Bypass-Again-Inspired-By-XCSSET/|
 CVE-2021-30807|IOMobileFrameBuffer|https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/|
 CVE-2021-30883|IOMobileFrameBuffer|https://saaramar.github.io/IOMFB_integer_overflow_poc/|
+CVE-2021-30892|zsh|https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/|
 CVE-2021-30902|Voice Control|https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
