@@ -71,18 +71,19 @@ CVE-2021-1815|Preferences|https://www.offensive-security.com/offsec/macos-prefer
 CVE-2021-30655|Wi-Fi|https://wojciechregula.blog/post/press-5-keys-and-become-root-aka-cve-2021-30655/|
 CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
 CVE-2021-30660|Kernel|https://alexplaskett.github.io/CVE-2021-30660/|
-CVE-2021-30860|CoreGraphics|https://www.trendmicro.com/en_us/research/21/i/analyzing-pegasus-spywares-zero-click-iphone-exploit-forcedentry.html|
 CVE-2021-30713|TCC|https://www.jamf.com/blog/zero-day-tcc-bypass-discovered-in-xcsset-malware/|
 CVE-2021-30724|CVMS|https://gist.github.com/jhftss/1bdb0f8340bfd56f7f645c080e094a8b https://www.trendmicro.com/en_us/research/21/f/CVE-2021-30724_CVMServer_Vulnerability_in_macOS_and_iOS.html|
 CVE-2021-30740&CVE-2021-30768&CVE-2021-30769&CVE-2021-30770&CVE-2021-30773|Kernel&dyld&Identity Service|https://github.com/LinusHenze/Fugu14|
 CVE-2021-30798|TCC|https://jhftss.github.io/CVE-2021-30798-TCC-Bypass-Again-Inspired-By-XCSSET/|
 CVE-2021-30807|IOMobileFrameBuffer|https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/|
 CVE-2021-30833|xar|https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/|
+CVE-2021-30860|CoreGraphics|https://www.trendmicro.com/en_us/research/21/i/analyzing-pegasus-spywares-zero-click-iphone-exploit-forcedentry.html<br>https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html|
 CVE-2021-30864|LaunchServices|https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/|
 CVE-2021-30869|XNU|https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/|
 CVE-2021-30883|IOMobileFrameBuffer|https://saaramar.github.io/IOMFB_integer_overflow_poc/|
 CVE-2021-30892|zsh|https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/|
 CVE-2021-30902|Voice Control|https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/|
+CVE-2021-30990|LaunchServices|https://ronmasas.com/posts/bypass-macos-gatekeeper|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
