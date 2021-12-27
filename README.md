@@ -77,6 +77,7 @@ CVE-2021-30740&CVE-2021-30768&CVE-2021-30769&CVE-2021-30770&CVE-2021-30773|Kerne
 CVE-2021-30798|TCC|https://jhftss.github.io/CVE-2021-30798-TCC-Bypass-Again-Inspired-By-XCSSET/|
 CVE-2021-30807|IOMobileFrameBuffer|https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/|
 CVE-2021-30833|xar|https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/|
+CVE-2021-30853|GateKeeper|https://objective-see.com/blog/blog_0x6A.html|
 CVE-2021-30860|CoreGraphics|https://www.trendmicro.com/en_us/research/21/i/analyzing-pegasus-spywares-zero-click-iphone-exploit-forcedentry.html<br>https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html|
 CVE-2021-30864|LaunchServices|https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/|
 CVE-2021-30869|XNU|https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/|
