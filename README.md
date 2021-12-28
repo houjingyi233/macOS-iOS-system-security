@@ -147,6 +147,7 @@ blackhat usa 2021|[Reverse Engineering the M1](https://i.blackhat.com/USA21/Wedn
 blackhat usa 2021|[Hack Different:Pwning iOS 14 With Generation Z Bugz](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Hack-Different-Pwning-IOS-14-With-Generation-Z-Bug.pdf)|
 blackhat usa 2021|[Wibbly Wobbly, Timey Wimey:What's Really Inside Apple's U1 Chip](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Wibbly-Wobbly-Timey-Wimey-Whats-Really-Inside-Apples-U1-Chip.pdf)|
 CanSecWest 2016|[Don't Trust Your Eye: Apple Graphics Is Compromised!](https://www.slideshare.net/CanSecWest/csw2016-chen-grassiheapplegraphicsiscompromised)|
+CSS 2019|[如何批量挖掘macOS/iOS内核信息泄漏漏洞](https://github.com/maldiohead/Slides/blob/main/Batch_find_macO_iOS_kernel_info_leak.pdf)|
 defcon26|[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)|
 HITB AMS 2021|[macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)|
 Objective by the Sea|[https://objectivebythesea.com/](https://objectivebythesea.com/)|
