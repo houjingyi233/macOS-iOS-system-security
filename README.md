@@ -48,6 +48,7 @@ CVE-2020-3919|IOHIDFamily|https://alexplaskett.github.io/CVE-2020-3919/|
 CVE-2020-9771|sandbox|https://theevilbit.github.io/posts/cve_2020_9771/<br>https://theevilbit.github.io/posts/reversing_cve_2020_9771/|
 CVE-2020-9817|PackageKit|https://research.nccgroup.com/2020/07/02/technical-advisory-macos-installer-local-root-privilege-escalation-cve-2020-9817/|
 CVE-2020-9854|Security|https://a2nkf.github.io/unauthd_Logic_bugs_FTW/|
+CVE-2020-9934|CoreFoundation|https://medium.com/@mattshockl/cve-2020-9934-bypassing-the-os-x-transparency-consent-and-control-tcc-framework-for-4e14806f1de8|
 CVE-2020-9964|IOSurfaceAccelerator|https://muirey03.blogspot.com/2020/09/cve-2020-9964-ios-infoleak.html|
 CVE-2020-9967|Kernel|https://alexplaskett.github.io/CVE-2020-9967/|
 CVE-2020-9968|sandbox|https://blog.xpnsec.com/we-need-to-talk-about-macl/|
@@ -84,6 +85,7 @@ CVE-2021-30869|XNU|https://blog.google/threat-analysis-group/analyzing-watering-
 CVE-2021-30883|IOMobileFrameBuffer|https://saaramar.github.io/IOMFB_integer_overflow_poc/|
 CVE-2021-30892|zsh|https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/|
 CVE-2021-30902|Voice Control|https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/|
+CVE-2021-30970|TCC|https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/|
 CVE-2021-30990|LaunchServices|https://ronmasas.com/posts/bypass-macos-gatekeeper|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
