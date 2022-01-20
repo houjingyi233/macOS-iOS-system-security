@@ -63,6 +63,7 @@ CVE-2020-27950|Kernel|https://www.synacktiv.com/publications/ios-1-day-hunting-u
 CVE-2020-9900&CVE-2021-1786|Crash Reporter|https://theevilbit.github.io/posts/macos_crashreporter/|
 CVE-2020-9905|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
 CVE-2020–9922|Mail|https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c|
+CVE-2021-1740&CVE-2021-30855&CVE-2021-30995|Preferences|https://jhftss.github.io/CVE-2021-1740-Invalid-Patch/<br>https://www.trendmicro.com/en_us/research/22/a/analyzing-an-old-bug-and-discovering-cve-2021-30995-.html| 
 CVE-2021-1747|CoreAudio|https://mp.weixin.qq.com/s/9dmQH4qIw95Gsx92wLSr6w|
 CVE-2021-1757|IOSkywalkFamily|https://github.com/b1n4r1b01/n-days/tree/main/CVE-2021-1757|
 CVE-2021-1758|FontParser|https://starlabs.sg/advisories/21-1758/|
@@ -151,6 +152,7 @@ blackhat usa 2021|[Wibbly Wobbly, Timey Wimey:What's Really Inside Apple's U1 Ch
 CanSecWest 2016|[Don't Trust Your Eye: Apple Graphics Is Compromised!](https://www.slideshare.net/CanSecWest/csw2016-chen-grassiheapplegraphicsiscompromised)|
 CSS 2019|[如何批量挖掘macOS/iOS内核信息泄漏漏洞](https://github.com/maldiohead/Slides/blob/main/Batch_find_macO_iOS_kernel_info_leak.pdf)|
 defcon26|[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)|
+defcon29|[Caught you - reveal and exploit IPC logic bugs inside Apple](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Zhipeng%20Huo%20Yuebin%20Sun%20Chuanda%20Ding%20-%20Caught%20you%20-%20reveal%20and%20exploit%20IPC%20logic%20bugs%20inside%20Apple.pdf)|
 HITB AMS 2021|[macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)|
 Objective by the Sea|[https://objectivebythesea.com/](https://objectivebythesea.com/)|
 syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdf)|
