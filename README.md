@@ -44,6 +44,7 @@ CVE-2019-8635|AMD|https://www.trendmicro.com/en_us/research/19/f/cve-2019-8635-d
 CVE-2019-8761|UIFoundation|https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html|
 CVE-2019-8794&CVE-2019-8795&CVE-2019-8797|Kernel&AVEVideoEncoder&Audio|https://ssd-disclosure.com/ssd-advisory-via-ios-jailbreak-sandbox-escape-and-kernel-r-w-leading-to-rce/
 CVE-2020-3847&CVE-2020-3848|CoreBluetooth|https://blogs.360.cn/post/macOS_Bluetoothd_0-click.html|
+CVE-2020-3852&CVE-2020-3864&CVE-2020-3865&CVE-2020-3885&CVE-2020-3887&CVE-2020-9784&CVE-2020-9787|safari&webkit|https://www.ryanpickren.com/webcam-hacking|
 CVE-2020-3919|IOHIDFamily|https://alexplaskett.github.io/CVE-2020-3919/|
 CVE-2020-9771|sandbox|https://theevilbit.github.io/posts/cve_2020_9771/<br>https://theevilbit.github.io/posts/reversing_cve_2020_9771/|
 CVE-2020-9817|PackageKit|https://research.nccgroup.com/2020/07/02/technical-advisory-macos-installer-local-root-privilege-escalation-cve-2020-9817/|
