@@ -39,7 +39,7 @@ CVE-2019-6231|CoreAnimation|https://www.fortinet.com/blog/threat-research/detail
 CVE-2019-8507|CoreAnimation|https://www.fortinet.com/blog/threat-research/detailed-analysis-mac-os-vulnerability-cve-2019-8507|
 CVE-2019-8549|Power Management|https://ssd-disclosure.com/ssd-advisory-ios-powerd-uninitialized-mach-message-reply-to-sandbox-escape-and-privilege-escalation/
 CVE-2019-8561|PackageKit|https://0xmachos.com/2021-04-30-CVE-2019-8561-PoC//
-CVE-2019-8605|Kernel|https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html|
+CVE-2019-8605|Kernel|https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html<br>https://github.com/jakeajames/sock_port<br>http://blog.asm.im/2019/11/17/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89UAF-%E4%B8%8E-Heap-Spraying/<br>http://blog.asm.im/2019/11/24/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E9%80%9A%E8%BF%87-Mach-OOL-Message-%E6%B3%84%E9%9C%B2-Port-Address/<br>http://blog.asm.im/2019/12/01/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89IOSurface-Heap-Spraying/<br>http://blog.asm.im/2019/12/08/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89The-tfp0/|
 CVE-2019-8635|AMD|https://www.trendmicro.com/en_us/research/19/f/cve-2019-8635-double-free-vulnerability-in-apple-macos-lets-attackers-escalate-system-privileges-and-execute-arbitrary-code.html|
 CVE-2019-8761|UIFoundation|https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html|
 CVE-2019-8794&CVE-2019-8795&CVE-2019-8797|Kernel&AVEVideoEncoder&Audio|https://ssd-disclosure.com/ssd-advisory-via-ios-jailbreak-sandbox-escape-and-kernel-r-w-leading-to-rce/
@@ -152,9 +152,11 @@ blackhat usa 2021|[Reverse Engineering the M1](https://i.blackhat.com/USA21/Wedn
 blackhat usa 2021|[Hack Different:Pwning iOS 14 With Generation Z Bugz](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Hack-Different-Pwning-IOS-14-With-Generation-Z-Bug.pdf)|
 blackhat usa 2021|[Wibbly Wobbly, Timey Wimey:What's Really Inside Apple's U1 Chip](https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Wibbly-Wobbly-Timey-Wimey-Whats-Really-Inside-Apples-U1-Chip.pdf)|
 CanSecWest 2016|[Don't Trust Your Eye: Apple Graphics Is Compromised!](https://www.slideshare.net/CanSecWest/csw2016-chen-grassiheapplegraphicsiscompromised)|
+CanSecWest 2017|[Port(al) to the iOS Core](https://www.slideshare.net/i0n1c/cansecwest-2017-portal-to-the-ios-core)
 CSS 2019|[如何批量挖掘macOS/iOS内核信息泄漏漏洞](https://github.com/maldiohead/Slides/blob/main/Batch_find_macO_iOS_kernel_info_leak.pdf)|
 defcon26|[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy95/defcon-26/blob/master/Attacking%20the%20macOS%20Kernel%20Graphics%20Driver.pdf)|
 defcon29|[Caught you - reveal and exploit IPC logic bugs inside Apple](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Zhipeng%20Huo%20Yuebin%20Sun%20Chuanda%20Ding%20-%20Caught%20you%20-%20reveal%20and%20exploit%20IPC%20logic%20bugs%20inside%20Apple.pdf)|
 HITB AMS 2021|[macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)|
+HITB GSEC 2019|[Recreating an iOS 0-day jailbreak out of Apple’s security patches](https://gsec.hitb.org/materials/sg2019/D2%20-%20Recreating%20an%20iOS%200day%20Jailbreak%20Out%20of%20Apple%E2%80%99s%20Security%20Updates%20-%20Stefan%20Esser.pdf)|
 Objective by the Sea|[https://objectivebythesea.com/](https://objectivebythesea.com/)|
 syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdf)|
