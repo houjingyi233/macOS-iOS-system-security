@@ -89,25 +89,30 @@ CVE-2021-30869|XNU|https://blog.google/threat-analysis-group/analyzing-watering-
 CVE-2021-30883|IOMobileFrameBuffer|https://saaramar.github.io/IOMFB_integer_overflow_poc/|
 CVE-2021-30892|zsh|https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/|
 CVE-2021-30902|Voice Control|https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/|
+CVE-2021-30955|Kernel|https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa|
 CVE-2021-30970|TCC|https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/|
 CVE-2021-30990|LaunchServices|https://ronmasas.com/posts/bypass-macos-gatekeeper|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
 
-1.Just some little dev tools to probe IOKit:
+Just some little dev tools to probe IOKit:
 
 [https://github.com/Siguza/iokit-utils](https://github.com/Siguza/iokit-utils)
 
-2.iOS/MacOS Kernelcache/Extensions analysis tool:
+Dyld Shared Cache Support for BinaryNinja:
+
+[https://github.com/cxnder/bn-dyldsharedcache](https://github.com/cxnder/bn-dyldsharedcache)
+
+iOS/MacOS Kernelcache/Extensions analysis tool:
 
 [https://github.com/lilang-wu/p-joker](https://github.com/lilang-wu/p-joker)
 
-3.static analysis tool for analyzing the security of Apple kernel drivers:
+static analysis tool for analyzing the security of Apple kernel drivers:
 
 [https://github.com/alibaba-edu/Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer)
 
-4.Coralsun is a small utility cython library used to provide python support for low level kernel features:
+Coralsun is a small utility cython library used to provide python support for low level kernel features:
 
 [https://github.com/FSecureLABS/coralsun](https://github.com/FSecureLABS/coralsun)
 
