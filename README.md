@@ -89,7 +89,7 @@ CVE-2021-30869|XNU|https://blog.google/threat-analysis-group/analyzing-watering-
 CVE-2021-30883|IOMobileFrameBuffer|https://saaramar.github.io/IOMFB_integer_overflow_poc/|
 CVE-2021-30892|zsh|https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/|
 CVE-2021-30902|Voice Control|https://blog.zecops.com/research/use-after-free-in-voice-control-cve-2021-30902/|
-CVE-2021-30955|Kernel|https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa|
+CVE-2021-30955|Kernel|https://www.cyberkl.com/cvelist/cvedetail/24<br>https://github.com/tihmstar/desc_race-fun_public<br>https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa|
 CVE-2021-30970|TCC|https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/|
 CVE-2021-30990|LaunchServices|https://ronmasas.com/posts/bypass-macos-gatekeeper|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
