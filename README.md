@@ -92,6 +92,8 @@ CVE-2021-30902|Voice Control|https://blog.zecops.com/research/use-after-free-in-
 CVE-2021-30955|Kernel|https://www.cyberkl.com/cvelist/cvedetail/24<br>https://github.com/tihmstar/desc_race-fun_public<br>https://gist.github.com/jakeajames/37f72c58c775bfbdda3aa9575149a8aa|
 CVE-2021-30970|TCC|https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/|
 CVE-2021-30990|LaunchServices|https://ronmasas.com/posts/bypass-macos-gatekeeper|
+CVE-2022-22582|xar|https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/|
+CVE-2022-22616|Safari Downloads|https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/|
 CVE-2022-22660|System Preferences|https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
