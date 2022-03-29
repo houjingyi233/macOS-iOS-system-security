@@ -123,29 +123,49 @@ Coralsun is a small utility cython library used to provide python support for lo
 
 public:
 
-1.[https://github.com/FSecureLABS/OSXFuzz](https://github.com/FSecureLABS/OSXFuzz)
+macOS 10.13 kernel fuzzer
 
-2.[https://github.com/ant4g0nist/ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer)
+[https://github.com/FSecureLABS/OSXFuzz](https://github.com/FSecureLABS/OSXFuzz)
 
-3.[https://github.com/googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)
+binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM
 
-4.[https://github.com/googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer)
+[https://github.com/ant4g0nist/ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer)
 
-5.[https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
+automate the generation of syscall specifications for closed-source macOS drivers and facilitate interface-aware fuzzing
 
-6.[https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz](https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz)
+[https://github.com/seclab-ucr/SyzGen_setup](https://github.com/seclab-ucr/SyzGen_setup)
 
-7.[https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac](https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac)
+binary code-coverage fuzzer for Windows and macOS
 
-8.[https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz](https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz)
+[https://github.com/googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope)
+
+a fork of XNU that contains support for fuzzing the network stack in userland on macOS and Linux-based hosts
+
+[https://github.com/googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer)
+
+fuzzing OSX kernel vulnerability based on passive inline hook mechanism in kernel mode
+
+[https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
+
+patch honggfuzz to get coverage guided fuzzing of closed source libraries on macOS based on trap
+
+[https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz](https://github.com/googleprojectzero/p0tools/tree/master/TrapFuzz)
+
+patch honggfuzz to fuzz iOS library on M1 mac
+
+[https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac](https://github.com/googleprojectzero/p0tools/tree/master/iOSOnMac)
+
+patch that build WebKitGTK+ with ASAN and make some changes that make fuzzing easier
+
+[https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz](https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz)
 
 private:
 
-1.LLDBFuzzer [Debug for Bug: Crack and Hack Apple Core by Itself](https://documents.trendmicro.com/images/TEx/infographics/Technical%20Brief-Debug%20for%20Bug%20Crack%20and%20Hack%20Apple%20Core%20by%20Itself.pdf)
+LLDBFuzzer [Debug for Bug: Crack and Hack Apple Core by Itself](https://documents.trendmicro.com/images/TEx/infographics/Technical%20Brief-Debug%20for%20Bug%20Crack%20and%20Hack%20Apple%20Core%20by%20Itself.pdf)
 
-2.LynxFuzzer [Improving Mac OS X Security Through Gray Box Fuzzing Technique](https://www.researchgate.net/profile/Aristide_Fattori/publication/266657005_Improving_Mac_OS_X_security_through_gray_box_fuzzing_technique/links/57b1aba008ae95f9d8f4abe7/Improving-Mac-OS-X-security-through-gray-box-fuzzing-technique.pdf)
+LynxFuzzer [Improving Mac OS X Security Through Gray Box Fuzzing Technique](https://www.researchgate.net/profile/Aristide_Fattori/publication/266657005_Improving_Mac_OS_X_security_through_gray_box_fuzzing_technique/links/57b1aba008ae95f9d8f4abe7/Improving-Mac-OS-X-security-through-gray-box-fuzzing-technique.pdf)
 
-3.Port	Syzkaller to	Support	macOS XNU	Fuzzing [Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit](https://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Juwei_Lin-Drill-The-Apple-Core.pdf)
+Port	Syzkaller to	Support	macOS XNU	Fuzzing [Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit](https://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Juwei_Lin-Drill-The-Apple-Core.pdf)
 
 <h3 id="p">conference</h3>
 
