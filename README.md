@@ -76,6 +76,7 @@ CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
 CVE-2021-30660|Kernel|https://alexplaskett.github.io/CVE-2021-30660/|
 CVE-2021-30713|TCC|https://www.jamf.com/blog/zero-day-tcc-bypass-discovered-in-xcsset-malware/|
 CVE-2021-30724|CVMS|https://gist.github.com/jhftss/1bdb0f8340bfd56f7f645c080e094a8b https://www.trendmicro.com/en_us/research/21/f/CVE-2021-30724_CVMServer_Vulnerability_in_macOS_and_iOS.html|
+CVE-2021-30734&CVE-2021-30735|WebKit&Graphics Drivers|https://github.com/ret2/Pwn2Own-2021-Safari|
 CVE-2021-30740&CVE-2021-30768&CVE-2021-30769&CVE-2021-30770&CVE-2021-30773|Kernel&dyld&Identity Service|https://github.com/LinusHenze/Fugu14|
 CVE-2021-30798|TCC|https://jhftss.github.io/CVE-2021-30798-TCC-Bypass-Again-Inspired-By-XCSSET/|
 CVE-2021-30807|IOMobileFrameBuffer|https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/|
