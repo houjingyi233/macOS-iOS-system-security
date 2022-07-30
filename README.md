@@ -98,6 +98,7 @@ CVE-2022-22616|Safari Downloads|https://jhftss.github.io/CVE-2022-22616-Gatekeep
 CVE-2022-22639|SoftwareUpdate|https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html|
 CVE-2022-22660|System Preferences|https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users|
 CVE-2022-26706|LaunchServices|https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/|
+CVE-2022-32816|WebKit|https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-url-spoofing/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
@@ -190,5 +191,6 @@ defcon26|[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy
 defcon29|[Caught you - reveal and exploit IPC logic bugs inside Apple](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Zhipeng%20Huo%20Yuebin%20Sun%20Chuanda%20Ding%20-%20Caught%20you%20-%20reveal%20and%20exploit%20IPC%20logic%20bugs%20inside%20Apple.pdf)|
 HITB AMS 2021|[macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)|
 HITB GSEC 2019|[Recreating an iOS 0-day jailbreak out of Apple’s security patches](https://gsec.hitb.org/materials/sg2019/D2%20-%20Recreating%20an%20iOS%200day%20Jailbreak%20Out%20of%20Apple%E2%80%99s%20Security%20Updates%20-%20Stefan%20Esser.pdf)|
+mch2022|[My journey to find vulnerabilities in macOS](https://media.ccc.de/v/mch2022-291-my-journey-to-find-vulnerabilities-in-macos)|
 Objective by the Sea|[https://objectivebythesea.com/](https://objectivebythesea.com/)|
-syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdf)|
+syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdfhttps://media.ccc.de/v/mch2022-291-my-journey-to-find-vulnerabilities-in-macos)|
