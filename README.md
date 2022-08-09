@@ -99,6 +99,7 @@ CVE-2022-22639|SoftwareUpdate|https://www.trendmicro.com/en_us/research/22/d/mac
 CVE-2022-22660|System Preferences|https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users|
 CVE-2022-26706|LaunchServices|https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/|
 CVE-2022-26712|PackageKit|https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/|
+CVE-2022-32787|ICU|https://ssd-disclosure.com/ssd-advisory-apple-safari-icu-out-of-bounds-write/|
 CVE-2022-32816|WebKit|https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-url-spoofing/|
 CVE-2022-32832|APFS|https://github.com/Muirey03/CVE-2022-32832|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
