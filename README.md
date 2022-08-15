@@ -4,6 +4,8 @@ Here is some resources about macOS/iOS system security.
 
 https://blog.pangu.io/
 
+https://starlabs.sg/advisories/
+
 https://bugs.chromium.org/p/project-zero/issues/list
 
 https://talosintelligence.com/vulnerability_reports#disclosed
@@ -67,9 +69,7 @@ CVE-2020–9922|Mail|https://mikko-kenttala.medium.com/zero-click-vulnerability-
 CVE-2021-1740&CVE-2021-30855&CVE-2021-30995|Preferences|https://jhftss.github.io/CVE-2021-1740-Invalid-Patch/<br>https://www.trendmicro.com/en_us/research/22/a/analyzing-an-old-bug-and-discovering-cve-2021-30995-.html| 
 CVE-2021-1747|CoreAudio|https://mp.weixin.qq.com/s/9dmQH4qIw95Gsx92wLSr6w|
 CVE-2021-1757|IOSkywalkFamily|https://github.com/b1n4r1b01/n-days/tree/main/CVE-2021-1757|
-CVE-2021-1758|FontParser|https://starlabs.sg/advisories/21-1758/<br>https://starlabs.sg/blog/2021/09/analysis-of-cve-2021-1758-coretext-out-of-bounds-read/|
 CVE-2021-1782|Kernel|https://github.com/ModernPwner/cicuta_virosa<br>https://www.synacktiv.com/publications/analysis-and-exploitation-of-the-ios-kernel-vulnerability-cve-2021-1782|
-CVE-2021-1790|FontParser|https://starlabs.sg/advisories/21-1790/|
 CVE-2021-1815|Preferences|https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/|
 CVE-2021-30655|Wi-Fi|https://wojciechregula.blog/post/press-5-keys-and-become-root-aka-cve-2021-30655/|
 CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
@@ -86,7 +86,6 @@ CVE-2021-30853|GateKeeper|https://objective-see.com/blog/blog_0x6A.html|
 CVE-2021-30860|CoreGraphics|https://www.trendmicro.com/en_us/research/21/i/analyzing-pegasus-spywares-zero-click-iphone-exploit-forcedentry.html<br>https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html|
 CVE-2021-30861&CVE-2021-30975|Script Editor&WebKit|https://www.ryanpickren.com/safari-uxss|
 CVE-2021-30864|LaunchServices|https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/|
-CVE-2021-30868|SMB|https://starlabs.sg/advisories/21-30868/|
 CVE-2021-30869|XNU|https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/|
 CVE-2021-30883|IOMobileFrameBuffer|https://saaramar.github.io/IOMFB_integer_overflow_poc/|
 CVE-2021-30892|zsh|https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/|
