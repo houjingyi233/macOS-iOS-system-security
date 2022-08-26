@@ -194,6 +194,7 @@ defcon26|[Attacking the macOS Kernel Graphics Driver](https://github.com/keenjoy
 defcon29|[Caught you - reveal and exploit IPC logic bugs inside Apple](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20presentations/Zhipeng%20Huo%20Yuebin%20Sun%20Chuanda%20Ding%20-%20Caught%20you%20-%20reveal%20and%20exploit%20IPC%20logic%20bugs%20inside%20Apple.pdf)|
 HITB AMS 2021|[macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)|
 HITB GSEC 2019|[Recreating an iOS 0-day jailbreak out of Apple’s security patches](https://gsec.hitb.org/materials/sg2019/D2%20-%20Recreating%20an%20iOS%200day%20Jailbreak%20Out%20of%20Apple%E2%80%99s%20Security%20Updates%20-%20Stefan%20Esser.pdf)|
+HITB SIN 2022|[One-Click to Completely Take Over A macOS Device](https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20One-Click%20to%20Completely%20Takeover%20a%20MacOS%20Device%20-%20Mickey%20Jin.pdf)|
 mch2022|[My journey to find vulnerabilities in macOS](https://media.ccc.de/v/mch2022-291-my-journey-to-find-vulnerabilities-in-macos)|
 Objective by the Sea|[https://objectivebythesea.com/](https://objectivebythesea.com/)|
 syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdfhttps://media.ccc.de/v/mch2022-291-my-journey-to-find-vulnerabilities-in-macos)|
