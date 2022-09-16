@@ -103,6 +103,7 @@ CVE-2022-32787|ICU|https://ssd-disclosure.com/ssd-advisory-apple-safari-icu-out-
 CVE-2022-32816|WebKit|https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-url-spoofing/|
 CVE-2022-32832|APFS|https://github.com/Muirey03/CVE-2022-32832|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
+CVE-2022-26766&CVE-2022-26763|CoreTrust&DriverKit|https://worthdoingbadly.com/coretrust/|
 
 <h3 id="p">tools</h3>
 
