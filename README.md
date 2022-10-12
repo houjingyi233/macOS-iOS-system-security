@@ -105,6 +105,7 @@ CVE-2022-32816|WebKit|https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-u
 CVE-2022-32832|APFS|https://github.com/Muirey03/CVE-2022-32832|
 CVE-2022-32883|Maps|https://github.com/breakpointHQ/CVE-2022-32883|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
+CVE-2022-32910|Archive Utility|https://www.jamf.com/blog/jamf-threat-labs-macos-archive-utility-vulnerability/|
 
 
 <h3 id="p">tools</h3>
