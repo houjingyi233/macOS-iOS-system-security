@@ -99,14 +99,14 @@ CVE-2022-22639|SoftwareUpdate|https://www.trendmicro.com/en_us/research/22/d/mac
 CVE-2022-22660|System Preferences|https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users|
 CVE-2022-26706|LaunchServices|https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/|
 CVE-2022-26712|PackageKit|https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/|
+CVE-2022-26743|Kernel|https://pwning.systems/posts/easy-apple-kernel-bug/|
 CVE-2022-26766&CVE-2022-26763|CoreTrust&DriverKit|https://worthdoingbadly.com/coretrust/|
 CVE-2022-32787|ICU|https://ssd-disclosure.com/ssd-advisory-apple-safari-icu-out-of-bounds-write/|
 CVE-2022-32816|WebKit|https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-url-spoofing/|
 CVE-2022-32832|APFS|https://github.com/Muirey03/CVE-2022-32832|
 CVE-2022-32883|Maps|https://github.com/breakpointHQ/CVE-2022-32883|
-multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 CVE-2022-32910|Archive Utility|https://www.jamf.com/blog/jamf-threat-labs-macos-archive-utility-vulnerability/|
-
+multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
 
