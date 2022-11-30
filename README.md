@@ -109,6 +109,9 @@ CVE-2022-32883|Maps|https://github.com/breakpointHQ/CVE-2022-32883|
 CVE-2022-32895|PackageKit|https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html|
 CVE-2022-32910|Archive Utility|https://www.jamf.com/blog/jamf-threat-labs-macos-archive-utility-vulnerability/|
 CVE-2022-32929|Backup|https://theevilbit.github.io/posts/cve-2022-32929/|
+CVE-2022-32845&CVE-2022-32899&CVE-2022-32948&CVE-2022-42805|Apple Neural Engine|https://github.com/0x36/weightBufs|
+CVE-2022-32898|Apple Neural Engine|https://0x36.github.io/CVE-2022-32898/|
+CVE-2022-32932|Apple Neural Engine|https://0x36.github.io/CVE-2022-32932/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
