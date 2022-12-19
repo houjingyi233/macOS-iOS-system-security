@@ -112,6 +112,7 @@ CVE-2022-32929|Backup|https://theevilbit.github.io/posts/cve-2022-32929/|
 CVE-2022-32845&CVE-2022-32899&CVE-2022-32948&CVE-2022-42805|Apple Neural Engine|https://github.com/0x36/weightBufs|
 CVE-2022-32898|Apple Neural Engine|https://0x36.github.io/CVE-2022-32898/|
 CVE-2022-32932|Apple Neural Engine|https://0x36.github.io/CVE-2022-32932/|
+CVE-2022-42837|iTunes Store|https://www.anquanke.com/post/id/284452|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
