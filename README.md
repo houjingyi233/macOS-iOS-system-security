@@ -44,6 +44,7 @@ CVE-2019-8549|Power Management|https://ssd-disclosure.com/ssd-advisory-ios-power
 CVE-2019-8561|PackageKit|https://0xmachos.com/2021-04-30-CVE-2019-8561-PoC//
 CVE-2019-8605|Kernel|https://googleprojectzero.blogspot.com/2019/12/sockpuppet-walkthrough-of-kernel.html<br>https://github.com/jakeajames/sock_port<br>http://blog.asm.im/2019/11/17/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%80%EF%BC%89UAF-%E4%B8%8E-Heap-Spraying/<br>http://blog.asm.im/2019/11/24/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E4%BA%8C%EF%BC%89%E9%80%9A%E8%BF%87-Mach-OOL-Message-%E6%B3%84%E9%9C%B2-Port-Address/<br>http://blog.asm.im/2019/12/01/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E4%B8%89%EF%BC%89IOSurface-Heap-Spraying/<br>http://blog.asm.im/2019/12/08/Sock-Port-%E6%BC%8F%E6%B4%9E%E8%A7%A3%E6%9E%90%EF%BC%88%E5%9B%9B%EF%BC%89The-tfp0/|
 CVE-2019-8635|AMD|https://www.trendmicro.com/en_us/research/19/f/cve-2019-8635-double-free-vulnerability-in-apple-macos-lets-attackers-escalate-system-privileges-and-execute-arbitrary-code.html|
+CVE-2019-8656|autofs|https://www.fcvl.net/vulnerabilities/macosx-gatekeeper-bypass|
 CVE-2019-8761|UIFoundation|https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html|
 CVE-2019-8794&CVE-2019-8795&CVE-2019-8797|Kernel&AVEVideoEncoder&Audio|https://ssd-disclosure.com/ssd-advisory-via-ios-jailbreak-sandbox-escape-and-kernel-r-w-leading-to-rce/
 CVE-2020-3847&CVE-2020-3848|CoreBluetooth|https://blogs.360.cn/post/macOS_Bluetoothd_0-click.html|
