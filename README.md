@@ -12,7 +12,8 @@ https://talosintelligence.com/vulnerability_reports#disclosed
 
 CVE|modules|POC/writeup link|
 ------------------|----------------|----------------|
-CVE-2015-????|Kernel|https://github.com/kpwn/tpwn<br>http://nirvan.360.cn/blog/?p=469|
+CVE-2014-8826|LaunchServices|https://www.ampliasecurity.com/advisories/os-x-gatekeeper-bypass-vulnerability.html|
+CVE-2015-????|Kernel|https://github.com/kpwn/tpwn|
 CVE-2016-????|XPC|https://marcograss.github.io/security/apple/xpc/2016/06/17/containermanagerd-xpc-array-oob.html|
 CVE-2016-1758&CVE-2016-1828|Kernel|https://bazad.github.io/2016/05/mac-os-x-use-after-free/
 CVE-2016-1824|IOHIDFamily|https://marcograss.github.io/security/apple/cve/2016/05/16/cve-2016-1824-apple-iohidfamily-racecondition.html|
@@ -207,6 +208,7 @@ defcon29|[Caught you - reveal and exploit IPC logic bugs inside Apple](https://m
 HITB AMS 2021|[macOS local security:escaping the sandbox and bypassing TCC](https://conference.hitb.org/hitbsecconf2021ams/materials/D1T1%20-%20MacOS%20Local%20Security%20-%20Escaping%20the%20Sandbox%20and%20Bypassing%20TCC%20-%20Thijs%20Alkemade%20&%20Daan%20Keuper.pdf)|
 HITB GSEC 2019|[Recreating an iOS 0-day jailbreak out of Apple’s security patches](https://gsec.hitb.org/materials/sg2019/D2%20-%20Recreating%20an%20iOS%200day%20Jailbreak%20Out%20of%20Apple%E2%80%99s%20Security%20Updates%20-%20Stefan%20Esser.pdf)|
 HITB SIN 2022|[One-Click to Completely Take Over A macOS Device](https://conference.hitb.org/hitbsecconf2022sin/materials/D1T1%20-%20One-Click%20to%20Completely%20Takeover%20a%20MacOS%20Device%20-%20Mickey%20Jin.pdf)|
+ISC 2017|[手把手教你突破 iOS 9.x 用户空间防护](https://images.seebug.org/archive/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E7%AA%81%E7%A0%B4iOS9.x%E7%9A%84%E7%94%A8%E6%88%B7%E7%A9%BA%E9%97%B4%E9%98%B2%E6%8A%A4.pdf)|
 mch2022|[My journey to find vulnerabilities in macOS](https://media.ccc.de/v/mch2022-291-my-journey-to-find-vulnerabilities-in-macos)|
 Objective by the Sea|[https://objectivebythesea.com/](https://objectivebythesea.com/)|
 syscan360 2016|[Memory corruption is for wusies!](https://papers.put.as/papers/macosx/2016/SyScan360_SG_2016_-_Memory_Corruption_is_for_wussies.pdfhttps://media.ccc.de/v/mch2022-291-my-journey-to-find-vulnerabilities-in-macos)|
