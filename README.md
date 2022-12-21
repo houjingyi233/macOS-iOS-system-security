@@ -72,6 +72,7 @@ CVE-2021-1740&CVE-2021-30855&CVE-2021-30995|Preferences|https://jhftss.github.io
 CVE-2021-1747|CoreAudio|https://mp.weixin.qq.com/s/9dmQH4qIw95Gsx92wLSr6w|
 CVE-2021-1757|IOSkywalkFamily|https://github.com/b1n4r1b01/n-days/tree/main/CVE-2021-1757|
 CVE-2021-1782|Kernel|https://github.com/ModernPwner/cicuta_virosa<br>https://www.synacktiv.com/publications/analysis-and-exploitation-of-the-ios-kernel-vulnerability-cve-2021-1782|
+CVE-2021-1810|Archive Utility|https://labs.withsecure.com/publications/the-discovery-of-cve-2021-1810<br>https://labs.withsecure.com/publications/analysis-of-cve-2021-1810-gatekeeper-bypass|
 CVE-2021-1815|Preferences|https://www.offensive-security.com/offsec/macos-preferences-priv-escalation/|
 CVE-2021-30655|Wi-Fi|https://wojciechregula.blog/post/press-5-keys-and-become-root-aka-cve-2021-30655/|
 CVE-2021-30657|System Preferences|https://objective-see.com/blog/blog_0x64.html|
@@ -114,10 +115,11 @@ CVE-2022-32929|Backup|https://theevilbit.github.io/posts/cve-2022-32929/|
 CVE-2022-32845&CVE-2022-32899&CVE-2022-32948&CVE-2022-42805|Apple Neural Engine|https://github.com/0x36/weightBufs|
 CVE-2022-32898|Apple Neural Engine|https://0x36.github.io/CVE-2022-32898/|
 CVE-2022-32932|Apple Neural Engine|https://0x36.github.io/CVE-2022-32932/|
+CVE-2022-42821|Gatekeeper|https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/|
 CVE-2022-42837|iTunes Store|https://www.anquanke.com/post/id/284452|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
-CVE-2022-42821|Gatekeeper|https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/|
+
 
 <h3 id="p">tools</h3>
 
