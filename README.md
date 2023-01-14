@@ -117,6 +117,7 @@ CVE-2022-32898|Apple Neural Engine|https://0x36.github.io/CVE-2022-32898/|
 CVE-2022-32932|Apple Neural Engine|https://0x36.github.io/CVE-2022-32932/|
 CVE-2022-42821|Gatekeeper|https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/|
 CVE-2022-42837|iTunes Store|https://www.anquanke.com/post/id/284452|
+CVE-2022-42841|PackageKit|https://sector7.computest.nl/post/2023-01-xar/|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
