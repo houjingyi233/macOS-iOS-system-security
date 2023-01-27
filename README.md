@@ -39,6 +39,7 @@ CVE-2018-4415|CoreAnimation|https://ssd-disclosure.com/ssd-advisory-ios-macos-sa
 CVE-2018-4431|Kernel|https://ssd-disclosure.com/ssd-advisory-ios-macos-kernel-task_inspect-information-leak/
 CVE-2019-6225|Kernel|https://blogs.360.cn/post/IPC%20Voucher%20UaF%20Remote%20Jailbreak%20Stage%202.html<br>https://googleprojectzero.blogspot.com/2019/08/in-wild-ios-exploit-chain-5.html<br>https://googleprojectzero.blogspot.com/2019/01/voucherswap-exploiting-mig-reference.html<br>http://highaltitudehacks.com/2020/06/01/from-zero-to-tfp0-part-1-prologue/<br>http://highaltitudehacks.com/2020/06/01/from-zero-to-tfp0-part-2-a-walkthrough-of-the-voucher-swap-exploit/|
 CVE-2019-6231|CoreAnimation|https://www.fortinet.com/blog/threat-research/detailed-analysis-of-macos-ios-vulnerability-cve-2019-6231|
+CVE-2019–6238|xar|https://yilmazcanyigit.medium.com/cve-2019-6238-apple-xar-directory-traversal-vulnerability-9a32ba8b3b7d|
 CVE-2019-8507|CoreAnimation|https://www.fortinet.com/blog/threat-research/detailed-analysis-mac-os-vulnerability-cve-2019-8507|
 CVE-2019-8549|Power Management|https://ssd-disclosure.com/ssd-advisory-ios-powerd-uninitialized-mach-message-reply-to-sandbox-escape-and-privilege-escalation/
 CVE-2019-8561|PackageKit|https://0xmachos.com/2021-04-30-CVE-2019-8561-PoC//
@@ -119,6 +120,7 @@ CVE-2022-42821|Gatekeeper|https://www.microsoft.com/en-us/security/blog/2022/12/
 CVE-2022-42837|iTunes Store|https://www.anquanke.com/post/id/284452|
 CVE-2022-42841|PackageKit|https://sector7.computest.nl/post/2023-01-xar/|
 CVE-2022-42845|Kernel|https://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-use-after-free-vulnerability-in-ndrv-dot-c/|
+CVE-2022-42855|Preferences|https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html|
 CVE-2022-42864|IOHIDFamily|https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 CVE-2023-23504|Kernel|https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/|
