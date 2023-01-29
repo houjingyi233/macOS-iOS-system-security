@@ -120,7 +120,6 @@ CVE-2022-42821|Gatekeeper|https://www.microsoft.com/en-us/security/blog/2022/12/
 CVE-2022-42837|iTunes Store|https://www.anquanke.com/post/id/284452|
 CVE-2022-42841|PackageKit|https://sector7.computest.nl/post/2023-01-xar/|
 CVE-2022-42845|Kernel|https://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-use-after-free-vulnerability-in-ndrv-dot-c/|
-CVE-2022-42855|Preferences|https://googleprojectzero.blogspot.com/2023/01/der-entitlements-brief-return-of.html|
 CVE-2022-42864|IOHIDFamily|https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 CVE-2023-23504|Kernel|https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/|
