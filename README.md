@@ -140,6 +140,10 @@ iOS/MacOS Kernelcache/Extensions analysis tool:
 
 [https://github.com/lilang-wu/p-joker](https://github.com/lilang-wu/p-joker)
 
+Extract Binaries from Apple's Dyld Shared Cache:
+
+[https://github.com/arandomdev/DyldExtractor](https://github.com/arandomdev/DyldExtractor)
+
 static analysis tool for analyzing the security of Apple kernel drivers:
 
 [https://github.com/alibaba-edu/Driver-Security-Analyzer](https://github.com/alibaba-edu/Driver-Security-Analyzer)
