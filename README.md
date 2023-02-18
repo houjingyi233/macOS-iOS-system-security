@@ -100,6 +100,7 @@ CVE-2021-30990|LaunchServices|https://ronmasas.com/posts/bypass-macos-gatekeeper
 CVE-2022-22582|xar|https://research.nccgroup.com/2022/03/15/technical-advisory-apple-macos-xar-arbitrary-file-write-cve-2022-22582/|
 CVE-2022-22616|Safari Downloads|https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/|
 CVE-2022-22639|SoftwareUpdate|https://www.trendmicro.com/en_us/research/22/d/macos-suhelper-root-privilege-escalation-vulnerability-a-deep-di.html|
+CVE-2022-22655|TCC|https://theevilbit.github.io/posts/cve-2022-22655/|
 CVE-2022-22660|System Preferences|https://rambo.codes/posts/2022-03-15-how-a-macos-bug-could-have-allowed-for-a-serious-phishing-attack-against-users|
 CVE-2022-26696|Terminal|https://wojciechregula.blog/post/macos-sandbox-escape-via-terminal/|
 CVE-2022-26706|LaunchServices|https://www.microsoft.com/security/blog/2022/07/13/uncovering-a-macos-app-sandbox-escape-vulnerability-a-deep-dive-into-cve-2022-26706/|
