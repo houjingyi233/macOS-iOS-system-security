@@ -195,17 +195,17 @@ patch that build WebKitGTK+ with ASAN and make some changes that make fuzzing ea
 
 private:
 
-fuzz macOS内核扩展
+fuzz macOS kernel extension
 
 [KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations](https://www.usenix.org/system/files/sec23fall-prepub-425-yin-tingting.pdf)
 
 [Improving Mac OS X Security Through Gray Box Fuzzing Technique](https://www.researchgate.net/profile/Aristide_Fattori/publication/266657005_Improving_Mac_OS_X_security_through_gray_box_fuzzing_technique/links/57b1aba008ae95f9d8f4abe7/Improving-Mac-OS-X-security-through-gray-box-fuzzing-technique.pdf)
 
-基于LLDB调试器的fuzzer
+fuzzer based on LLDB
 
 [Debug for Bug: Crack and Hack Apple Core by Itself](https://documents.trendmicro.com/images/TEx/infographics/Technical%20Brief-Debug%20for%20Bug%20Crack%20and%20Hack%20Apple%20Core%20by%20Itself.pdf)
 
-将syzkaller移植到macOS
+port syzkaller to macOS
 
 [Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit](https://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Juwei_Lin-Drill-The-Apple-Core.pdf)
 
