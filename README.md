@@ -207,7 +207,7 @@ fuzz macOS内核扩展
 
 将syzkaller移植到macOS
 
-Port	Syzkaller to	Support	macOS XNU	Fuzzing [Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit](https://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Juwei_Lin-Drill-The-Apple-Core.pdf)
+[Drill Apple Core: Up and Down - Fuzz Apple Core Component in Kernel and User Mode for Fun and Profit](https://i.blackhat.com/eu-18/Wed-Dec-5/eu-18-Juwei_Lin-Drill-The-Apple-Core.pdf)
 
 <h3 id="p">conference</h3>
 
