@@ -193,6 +193,10 @@ patch that build WebKitGTK+ with ASAN and make some changes that make fuzzing ea
 
 [https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz](https://github.com/googleprojectzero/p0tools/tree/master/WebKitFuzz)
 
+AArch64 fuzzer based on the Apple Silicon hypervisor
+
+[https://github.com/Impalabs/hyperpom](https://github.com/Impalabs/hyperpom)
+
 private:
 
 fuzz macOS kernel extension
