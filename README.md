@@ -124,6 +124,7 @@ CVE-2022-42845|Kernel|https://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-u
 CVE-2022-42864|IOHIDFamily|https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 CVE-2023-23504|Kernel|https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/|
+CVE-2023-27941&CVE-2023-28200|Kernel|https://github.com/0x3c3e/slides/blob/main/2023/zer0con/README.md|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 
