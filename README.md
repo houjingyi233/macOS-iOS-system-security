@@ -125,8 +125,9 @@ CVE-2022-42864|IOHIDFamily|https://muirey03.blogspot.com/2023/01/cve-2022-42864-
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 CVE-2023-23504|Kernel|https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/|
 CVE-2023-27941&CVE-2023-28200|Kernel|https://github.com/0x3c3e/slides/blob/main/2023/zer0con/README.md|
+CVE-2023-27943|LaunchServices|https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/|
+CVE-2023-27951|Archive Utility|https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
-
 
 <h3 id="p">tools</h3>
 
@@ -153,6 +154,10 @@ static analysis tool for analyzing the security of Apple kernel drivers:
 Coralsun is a small utility cython library used to provide python support for low level kernel features:
 
 [https://github.com/FSecureLABS/coralsun](https://github.com/FSecureLABS/coralsun)
+
+Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research:
+
+[https://github.com/redcanaryco/mac-monitor](https://github.com/redcanaryco/mac-monitor)
 
 <h3 id="p">fuzzers</h3>
 
