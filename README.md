@@ -159,6 +159,18 @@ Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor
 
 [https://github.com/redcanaryco/mac-monitor](https://github.com/redcanaryco/mac-monitor)
 
+a set of developer tools that help in analyzing crashes on macOS:
+
+[CrashWrangler](https://developer.apple.com/library/archive/technotes/tn2334/_index.html)
+
+crashwrangler with support for Apple Silicon:
+
+[https://github.com/ant4g0nist/crashwrangler](https://github.com/ant4g0nist/crashwrangler)
+
+Reliable, open-source crash reporting for iOS, macOS and tvOS:
+
+[https://github.com/microsoft/plcrashreporter](https://github.com/microsoft/plcrashreporter)
+
 <h3 id="p">fuzzers</h3>
 
 public:
