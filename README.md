@@ -112,6 +112,7 @@ CVE-2022-32816|WebKit|https://ssd-disclosure.com/ssd-advisory-apple-safari-idn-u
 CVE-2022-32832|APFS|https://github.com/Muirey03/CVE-2022-32832|
 CVE-2022-32883|Maps|https://github.com/breakpointHQ/CVE-2022-32883|
 CVE-2022-32895|PackageKit|https://www.trendmicro.com/en_us/research/22/k/cve-2019-8561-a-hard-to-banish-packagekit-framework-vulnerabilit.html|
+CVE-2022-32902|ATS|https://jhftss.github.io/CVE-2022-32902-Patch-One-Issue-and-Introduce-Two/|
 CVE-2022-32910|Archive Utility|https://www.jamf.com/blog/jamf-threat-labs-macos-archive-utility-vulnerability/|
 CVE-2022-32929|Backup|https://theevilbit.github.io/posts/cve-2022-32929/|
 CVE-2022-32845&CVE-2022-32899&CVE-2022-32948&CVE-2022-42805|Apple Neural Engine|https://github.com/0x36/weightBufs|
