@@ -125,12 +125,13 @@ CVE-2022-42845|Kernel|https://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-u
 CVE-2022-42864|IOHIDFamily|https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 CVE-2023-23504|Kernel|https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/|
+CVE-2023-23525|LaunchServices|https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/|
 CVE-2023-27941&CVE-2023-28200|Kernel|https://github.com/0x3c3e/slides/blob/main/2023/zer0con/README.md|
 CVE-2023-27943|LaunchServices|https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/|
 CVE-2023-27951|Archive Utility|https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/|
 CVE-2023-32369|libxpc|https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/|
+CVE-2023-41061&CVE-2023-41064|Wallet&ImageIO|https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
-CVE-2023-41061 & CVE-2023-41064|Wallet & ImageIO|https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/|
 
 <h3 id="p">tools</h3>
 
