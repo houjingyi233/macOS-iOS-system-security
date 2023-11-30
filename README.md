@@ -130,6 +130,7 @@ CVE-2023-27941&CVE-2023-28200|Kernel|https://github.com/0x3c3e/slides/blob/main/
 CVE-2023-27943|LaunchServices|https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/|
 CVE-2023-27951|Archive Utility|https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/|
 CVE-2023-32369|libxpc|https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/|
+CVE-2023-32407|Metal|https://gergelykalman.com/lateralus-CVE-2023-32407-a-macos-tcc-bypass.html|
 CVE-2023-41061&CVE-2023-41064|Wallet&ImageIO|https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
