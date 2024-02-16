@@ -69,6 +69,7 @@ CVE-2020-27950|Kernel|https://www.synacktiv.com/publications/ios-1-day-hunting-u
 CVE-2020-9900&CVE-2021-1786|Crash Reporter|https://theevilbit.github.io/posts/macos_crashreporter/|
 CVE-2020-9905|Kernel|https://blog.zecops.com/vulnerabilities/from-a-comment-to-a-cve-content-filter-strikes-again/|
 CVE-2020–9922|Mail|https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c|
+CVE-2020-10005&CVE-2021-1878&CVE-2021-30712&CVE-2021-30716&CVE-2021-30717&CVE-2021-30721&CVE-2021-30722|smbx|https://blog.talosintelligence.com/vuln-spotlight-smb-mac-deep-dive/|
 CVE-2021-1740&CVE-2021-30855&CVE-2021-30995|Preferences|https://jhftss.github.io/CVE-2021-1740-Invalid-Patch/<br>https://www.trendmicro.com/en_us/research/22/a/analyzing-an-old-bug-and-discovering-cve-2021-30995-.html| 
 CVE-2021-1747|CoreAudio|https://mp.weixin.qq.com/s/9dmQH4qIw95Gsx92wLSr6w|
 CVE-2021-1757|IOSkywalkFamily|https://github.com/b1n4r1b01/n-days/tree/main/CVE-2021-1757|
@@ -125,6 +126,7 @@ CVE-2022-42845|Kernel|https://adamdoupe.com/blog/2022/12/13/cve-2022-42845-xnu-u
 CVE-2022-42864|IOHIDFamily|https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html|
 CVE-2022-46689|Kernel|https://github.com/zhuowei/MacDirtyCowDemo|
 CVE-2023-23504|Kernel|https://adamdoupe.com/blog/2023/01/23/cve-2023-23504-xnu-heap-underwrite-in-dlil-dot-c/|
+CVE-2023-23513&CVE-2023-23539&CVE-2023-28180&CVE-2023-27934&CVE-2023-27935&CVE-2023-27953&CVE-2023-27958&CVE-2023-32387|dcerpc|https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/|
 CVE-2023-23525|LaunchServices|https://jhftss.github.io/CVE-2023-23525-Get-Root-via-A-Fake-Installer/|
 CVE-2023-27941&CVE-2023-28200|Kernel|https://github.com/0x3c3e/slides/blob/main/2023/zer0con/README.md|
 CVE-2023-27943|LaunchServices|https://redcanary.com/blog/gatekeeper-bypass-vulnerabilities/|
@@ -135,7 +137,6 @@ CVE-2023-32407|Metal|https://gergelykalman.com/lateralus-CVE-2023-32407-a-macos-
 CVE-2023-32422|SQLite|https://gergelykalman.com/sqlol-CVE-2023-32422-a-macos-tcc-bypass.html|
 CVE-2023-38571|Music|https://gergelykalman.com/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV.html|
 CVE-2023-41061&CVE-2023-41064|Wallet&ImageIO|https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/|
-CVE-2023-23513&CVE-2023-23539&CVE-2023-28180&CVE-2023-27934&CVE-2023-27935&CVE-2023-27953&CVE-2023-27958&CVE-2023-32387|dcerpc|https://blog.talosintelligence.com/weaknesses-mac-os-vmware-msrpc/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
