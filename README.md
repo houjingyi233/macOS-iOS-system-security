@@ -139,6 +139,7 @@ CVE-2023-38571|Music|https://gergelykalman.com/CVE-2023-38571-a-macOS-TCC-bypass
 CVE-2023-41061&CVE-2023-41064|Wallet&ImageIO|https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/|
 CVE-2023-42931|DiskArbitration|https://hackhunting.com/2024/04/05/easy-root-privilege-escalation-in-apple-macos-ventura-sonoma-monterey-cve-2023-42931/|
 CVE-2023-42942|libxpc|https://jhftss.github.io/CVE-2023-42942-xpcroleaccountd-Root-Privilege-Escalation/|
+CVE-2024-27822|PackageKit|https://khronokernel.com/macos/2024/06/03/CVE-2024-27822.html|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
@@ -158,6 +159,10 @@ iOS/MacOS Kernelcache/Extensions analysis tool:
 Extract Binaries from Apple's Dyld Shared Cache:
 
 [https://github.com/arandomdev/DyldExtractor](https://github.com/arandomdev/DyldExtractor)
+
+An Application for Inspecting macOS Installer Packages:
+
+[https://mothersruin.com/software/SuspiciousPackage/](https://mothersruin.com/software/SuspiciousPackage/)
 
 static analysis tool for analyzing the security of Apple kernel drivers:
 
