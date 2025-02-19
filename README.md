@@ -140,6 +140,7 @@ CVE-2023-41061&CVE-2023-41064|Wallet&ImageIO|https://citizenlab.ca/2023/09/blast
 CVE-2023-42931|DiskArbitration|https://hackhunting.com/2024/04/05/easy-root-privilege-escalation-in-apple-macos-ventura-sonoma-monterey-cve-2023-42931/|
 CVE-2023-42942|libxpc|https://jhftss.github.io/CVE-2023-42942-xpcroleaccountd-Root-Privilege-Escalation/|
 CVE-2024-27822|PackageKit|https://khronokernel.com/macos/2024/06/03/CVE-2024-27822.html|
+CVE-2025-24118|Kernel|https://jprx.io/cve-2025-24118/|
 multiple|lock screen bypass|https://blog.dinosec.com/2014/09/bypassing-ios-lock-screens.html|
 
 <h3 id="p">tools</h3>
